@@ -1,3 +1,7 @@
+Mudanças em relação à upstream: 
+ - `config/index.js`: port 8085
+ - `src/common/config.js`: API_URL para URL do laravel
+
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 
